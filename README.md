@@ -8,7 +8,7 @@
 - 👋 Hi, I’m @Siddhu-26
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Sports.
 - 🌱 I’m currently learning all of the above.
-- 💞️ I’m looking for internships.
+- 💞️ I’m looking for Data Science internships.
 
 <br/>
 
