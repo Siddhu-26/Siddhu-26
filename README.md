@@ -30,6 +30,7 @@
  
 #### Completed
  - Automated Data Analysis and Modelling Tool
+ - CricBuzzScr: Scrapper for cricbuzz
  - Interpretability machine learning models: An application to health
    insurance fraud detection
  - Sai literature QnA 
