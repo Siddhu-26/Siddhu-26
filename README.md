@@ -20,6 +20,30 @@
 <br/>
 
 
+## Projects
+
+#### Ongoing
+
+ - Cricket shot classification
+ - Extracting text from video with no information loss
+
+ 
+#### Completed
+ - Automated Data Analysis and Modelling Tool
+ - Interpretability machine learning models: An application to health
+   insurance fraud detection
+ - Sai literature QnA 
+ - Data Exploratory tool  
+ - Connect: P2P chat system
+
+<br/>
+
+### Languages
+- Python
+- R
+- C
+- C++
+
 <!--
 ### Unlock this after you get famous
 
