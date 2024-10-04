@@ -31,7 +31,7 @@
 #### Completed
  - Automated Data Analysis and Modelling Tool
  - CricBuzzScr: Scrapper for [cricbuzz](https://www.cricbuzz.com)
- - Interpretability machine learning models: An application to health
+ - Interpretability of machine learning models: An application to health
    insurance fraud detection
  - Sai literature QnA 
  - Data Exploratory tool  
